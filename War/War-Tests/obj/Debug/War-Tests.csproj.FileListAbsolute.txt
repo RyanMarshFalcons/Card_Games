@@ -1,0 +1,12 @@
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\War-Tests.dll
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\War-Tests.pdb
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\StartUp.exe
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\War.dll
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\Messages.dll
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\StartUp.pdb
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\War.pdb
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\bin\Debug\Messages.pdb
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\obj\Debug\War-Tests.csprojResolveAssemblyReference.cache
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\obj\Debug\War-Tests.dll
+C:\Users\rmars_000\GitHubProjects\War\War-Tests\obj\Debug\War-Tests.pdb

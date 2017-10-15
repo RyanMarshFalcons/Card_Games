@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack.csproj", "{A081EF79-679B-42AC-BE0A-296853A7D5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartUp", "StartUp\StartUp.csproj", "{CC50B755-EA8D-4294-8910-019BEA3453E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackMessages", "BlackJackMessages\BlackJackMessages.csproj", "{814F50F6-F13D-4979-81F7-8CEDF45AAB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackTests", "BlackJackTests\BlackJackTests.csproj", "{C98A8D9E-9A36-47C0-B96F-3D2CA830FA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A081EF79-679B-42AC-BE0A-296853A7D5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A081EF79-679B-42AC-BE0A-296853A7D5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A081EF79-679B-42AC-BE0A-296853A7D5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A081EF79-679B-42AC-BE0A-296853A7D5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC50B755-EA8D-4294-8910-019BEA3453E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC50B755-EA8D-4294-8910-019BEA3453E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC50B755-EA8D-4294-8910-019BEA3453E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC50B755-EA8D-4294-8910-019BEA3453E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814F50F6-F13D-4979-81F7-8CEDF45AAB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814F50F6-F13D-4979-81F7-8CEDF45AAB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814F50F6-F13D-4979-81F7-8CEDF45AAB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814F50F6-F13D-4979-81F7-8CEDF45AAB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98A8D9E-9A36-47C0-B96F-3D2CA830FA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98A8D9E-9A36-47C0-B96F-3D2CA830FA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98A8D9E-9A36-47C0-B96F-3D2CA830FA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98A8D9E-9A36-47C0-B96F-3D2CA830FA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

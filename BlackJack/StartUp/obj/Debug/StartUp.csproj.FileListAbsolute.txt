@@ -1,0 +1,10 @@
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\StartUp.exe
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\StartUp.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\BlackJack.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\BlackJackMessages.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\BlackJackMessages.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\bin\Debug\BlackJack.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\obj\Debug\StartUp.exe
+C:\Users\rmars_000\GitHubProjects\BlackJack\StartUp\obj\Debug\StartUp.pdb

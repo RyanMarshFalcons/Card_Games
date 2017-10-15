@@ -1,0 +1,5 @@
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackMessages\bin\Debug\BlackJackMessages.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackMessages\bin\Debug\BlackJackMessages.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackMessages\obj\Debug\BlackJackMessages.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackMessages\obj\Debug\BlackJackMessages.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackMessages\obj\Debug\BlackJackMessages.csprojResolveAssemblyReference.cache

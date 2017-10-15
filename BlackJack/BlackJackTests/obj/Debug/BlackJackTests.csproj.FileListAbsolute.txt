@@ -1,0 +1,12 @@
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\BlackJackTests.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\BlackJackTests.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\BlackJack.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\StartUp.exe
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\BlackJackMessages.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\BlackJack.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\StartUp.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\bin\Debug\BlackJackMessages.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.dll
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.pdb
+C:\Users\rmars_000\GitHubProjects\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.csprojResolveAssemblyReference.cache

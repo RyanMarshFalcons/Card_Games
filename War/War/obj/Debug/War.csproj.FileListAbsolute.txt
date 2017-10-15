@@ -1,0 +1,7 @@
+C:\Users\rmars_000\GitHubProjects\War\War\bin\Debug\War.dll
+C:\Users\rmars_000\GitHubProjects\War\War\bin\Debug\War.pdb
+C:\Users\rmars_000\GitHubProjects\War\War\obj\Debug\War.csprojResolveAssemblyReference.cache
+C:\Users\rmars_000\GitHubProjects\War\War\obj\Debug\War.dll
+C:\Users\rmars_000\GitHubProjects\War\War\obj\Debug\War.pdb
+C:\Users\rmars_000\GitHubProjects\War\War\bin\Debug\Messages.dll
+C:\Users\rmars_000\GitHubProjects\War\War\bin\Debug\Messages.pdb
